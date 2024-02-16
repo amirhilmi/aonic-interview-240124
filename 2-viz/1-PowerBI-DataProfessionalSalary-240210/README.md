@@ -1,4 +1,4 @@
-# PowerBI-DataProfessionalSurveyBreakdown
+# PowerBI-Data Professional Survey Breakdown
 ### Full project in Power BI
 
 
