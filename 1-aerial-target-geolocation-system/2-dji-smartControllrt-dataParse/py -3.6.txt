@@ -1,0 +1,16 @@
+py -3.6 darknet.py
+
+py -3.6 -m pip install Pillow
+py -3.6 -m pip install opencv-python
+
+
+py -3.7 -m pip install opencv-python
+py -3.7 -m pip install darknet
+py -3.7 -m pip install Pillow
+
+python -m pip install darknet
+
+pip install opencv-python3
+
+
+py -3.9 -m pip install opencv-python
