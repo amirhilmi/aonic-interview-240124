@@ -1,5 +1,5 @@
 # PowerBI-DataProfessionalSurveyBreakdown
-### full project in Power BI
+### Full project in Power BI
 
 
-![dashboard2]( )
+![dashboard2](2-viz/1-PowerBI-DataProfessionalSalary-240210/assets/databi_2.png)
